@@ -1,4 +1,4 @@
-# Safari-Clickbot
+# Safari Clickbot
 
 This software is licensed under the Apache 2 software license (see LICENSE file). Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 
@@ -8,7 +8,7 @@ The author of this software makes no representation or guarantee that this softw
 
 ## Install
 
-Ensure `Allow Remote Automation` is ticked under the `Develop` menu in Safari. You can eneable the Safari `Develop` menu in Safari preferences.
+Ensure `Allow Remote Automation` is ticked under the `Develop` menu in Safari. You can enable the Safari `Develop` menu in Safari preferences.
 
 ```
 pip3 install selenium
